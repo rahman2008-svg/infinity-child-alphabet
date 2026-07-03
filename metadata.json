@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Child Alphabet",
+  "description": "A fun, interactive, and gamified early learning app for children featuring interactive alphabets, numbers, tracking, tracing, stories, games, and a full parent dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
